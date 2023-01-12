@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Alexis Bouchez
+- 👀 I’m interested in software development at scale
+- 🌱 I’m currently learning Go
